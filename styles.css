@@ -1,0 +1,34 @@
+body {
+    background-color: #1F1F1F;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: #FEFDFB;
+    font-family: "Garamond", "Times New Roman", Times, serif;
+}
+
+ul, ol, a {
+    color: #FC93AD;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+p {
+    color: #FEFDFB;
+}
+
+.odin {
+    color: #4B4B4B;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
